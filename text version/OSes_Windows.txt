@@ -8,8 +8,8 @@ Also the headers being long lines of =s was taken from WOS list because I don't 
 Builds are separated similarly to the chart version.
 
 Section: OSes/Windows (You're most likely not getting anything more than OSes in this list)
-Version: 0.002
-Number of builds: 692
+Version: 0.003
+Number of builds: 852
 ===========================================================================================================================
 Windows 1.0
 ===========================================================================================================================
@@ -118,6 +118,64 @@ Windows 1.05
 ===========================================================================================================================
 Windows 2.x
 ===========================================================================================================================
+Windows 2.0 April 1987 build
+Windows 2.0 InfoWorld build
+Windows 2.0 Alpha 1
+Windows 2.0 Alpha 2
+Windows 2.0 Beta 1
+Windows 2.0 Developer's Beta1 Release 07/01/87
+Windows 2.0 Beta 2
+Windows 2.0 Beta 2.2
+Windows 2.0 Post-Beta 2
+Windows 2.0 August 1987 build
+Windows 2.00
+Windows/386 2.01
+Windows 2.03
+	Amstrad OEM
+	Ericsson OEM
+	G2 Computer Systems OEM
+	HP Vectra OEM
+	NEC PC-9800 OEM
+	RM Nimbus PC-186 OEM
+	Tandon OEM
+	Tulip OEM
+	Wang OEM
+	Zenith OEM
+	(unknwon OEM, Swedish)
+Windows/386 2.03
+	NEC PC-9800 OEM
+	NEC PowerMate OEM
+	Toshiba OEM
+Windows/286 2.1
+	1988-07-01 "Rel B"
+	1988-07-20 "Rel C"
+	1988-09-07 "Rel D"
+
+	Atari OEM
+	Amstrad OEM
+	NEC PC-9800 OEM
+	RM Nimbus PC-186 OEM
+	Siemens OEM
+	Tulip OEM
+	Unisys OEM
+	Wang OEM
+Windows/386 2.1
+	1988-07-01 "Rel B"
+	1988-09-07 "Rel D"
+
+	Amstrad OEM
+	NEC OEM "Rev. 0"
+	NEC PC-9800 OEM
+	Toshiba OEM
+	Tulip OEM
+	Wang OEM
+Windows/286 2.11
+	Acer AX OEM
+	Casio AX OEM
+	NEC PC-9800 OEM
+	RM Nimbus PC-186
+Windows/386 2.11
+	NEC PC-9800 OEM
 ===========================================================================================================================
 Windows 3.0
 ===========================================================================================================================
