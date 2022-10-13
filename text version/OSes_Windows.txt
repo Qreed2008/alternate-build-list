@@ -1,17 +1,120 @@
 Text-file Ultra-definitive Build List
-This does not include status labels (Unconfirmed, Available, etc) so not everything here is real
+This does not include status labels (Unconfirmed, Available, etc) so not everything here is real, if you want labels you can visit the Fandom site: https://ultradefinitive-build-list.fandom.com/wiki/Home
 This really just exists because the Fandom version doesn't have an "Unknown" status label and I don't feel like adding it
 Maybe this could be a reference file
 
 Also the headers being long lines of =s was taken from WOS list because I don't have any better ideas that don't require adding something before every line
-And the -s separating the sections
+
+Builds are separated similarly to the chart version.
 
 Section: OSes/Windows (You're most likely not getting anything more than OSes in this list)
-Version: 0.001 "Starter text"
+Version: 0.002
 Number of builds: 692
 ===========================================================================================================================
 Windows 1.0
 ===========================================================================================================================
+Windows Demonstration 0.01 (aka BYTE build)
+Microsoft Interface Manager Internal Test Release 3 (Mark Tuson's Demo 0.01 mockup)
+Windows 0.90
+Windows 0.98
+Windows 0.989
+Windows 0.99
+Windows 1.0 1983-11-01 build
+Windows 1.0 InfoWorld 1983-11-21 build
+Windows 1.0 Fall COMDEX build
+	Wang OEM
+	Zenith OEM
+Windows 1.0 1983-11-20 build
+Windows 1.0 PC Mag 1984-01-24 build
+Windows 1.0 1984-02-22 build
+Windows 1.0 West Coast Computer Faire build
+Windows 1.0 Olivetti M21/M24 demonstration build(s)
+Windows 1.0 April 1984 build
+Windows 1.0 Developer Release 1
+Windows 1.0 Developer Release 2
+Windows 1.0 Tandy 2000 builds
+	Build 1 (assumed to be similar or same as DR1)
+	Build 2 (assumed to be similar or same as DR2)
+	Build 3 (assumed to be similar or same as DR3)
+Windows 1.0 PC Mag 1984-06 Tech Seminar Demo builds
+	Altos
+	Bytes-Comterm
+	Columbia Data Products
+	Compaq
+	DEC
+	HP
+	Honeywell
+	ITT Qume
+	Mindset
+	Polo Microsystems
+	Rana Systems
+	Tandy
+	TeleVideo
+	Texas Instruments
+	Zenith
+Windows 1.0 Developer Release 3
+Windows 1.0 Apricot Xi demonstration build
+Windows 1.0 Developer Release 4
+Windows 1.0 Developer Release 5
+	Later build
+Windows 1.0 Alpha Release
+Windows 1.0 Science et Vie Micro build
+Windows 1.0 InfoWorld 1985-07-01 build
+Windows 1.0 Beta Release
+	RM Nimbus PC-186 OEM
+	Zenith Z-100 OEM
+Windows 1.0 Preliminary Version 0.50
+Windows 1.0 PC Mag 1985-08-20 build
+Windows 1.0 Premiere Edition
+Windows 1.xx/1.xy base build
+Windows 1.0 1985-09-09 build
+Windows 1.0 1985-09-25 build
+Windows 1.xx
+Windows 1.xy
+Windows 1.0 1985-09-30 build
+Windows 1.0 1985-10-11 build
+Windows 1.0 1985-10-28 build
+Windows Beta V1.00.08
+Windows Retail Beta V1.00.09
+Windows 1.00
+Windows 1.01
+	DEC VAXmate OEM
+	NEC PC-9800 OEM
+	Tandy OEM
+	Tulip OEM
+	Zenith Z-100 OEM
+		PC Compatible version (Z-150 series)
+Windows Beta V1.02.02
+Windows 1.02
+	NEC OEM
+	Philips P3102 OEM
+	RM Nimbus PC-186 OEM
+		Debug
+	Siemens PC-D OEM
+		r1.01
+		r2.01
+	Siemens PCD-2 OEM
+Windows Beta V1.03.04
+Windows 1.03
+	Apricot XEN OEM
+	Apricot XEN-i OEM
+	Apricot XEN-i 386 OEM
+	DEC Rainbow 100 OEM
+	DEC VAXmate OEM
+	HP-150 OEM
+	HP Vectra OEM
+	ICL OEM
+	NEC PC-9800 OEM
+	RM Nimbus PC-186 OEM
+	Siemens PCD-2 OEM
+	Tandon OEM
+	Tulip OEM
+	Zenith OEM
+Windows 1.04
+	IBM OEM
+		Model 25 (Collegiate Kit)
+		Model 30 (Personal Publishing System)
+Windows 1.05
 ===========================================================================================================================
 Windows 2.x
 ===========================================================================================================================
@@ -36,6 +139,7 @@ Windows 95
 ===========================================================================================================================
 Windows NT 4.0
 ===========================================================================================================================
+4.00.1096
 ===========================================================================================================================
 Windows Nashville
 ===========================================================================================================================
@@ -64,12 +168,15 @@ Windows XP
 5.0.2204.1.main(crobins)
 5.0.2210.1.Lab06_N(jstokes).000306-1822
 5.0.2210.1.main(crobins)
+5.1.2217.1
 5.1.2226.1.Lab06_N(faxbld)
 5.1.2232.1
 5.1.2234.1.Lab06_N(skupec).000513-0806
 5.1.2239.1
+5.1.2250.1.main.000628-2110
 5.1.2250.3.Lab01_N(barbkess).000428-1822
 5.1.2253.1.Lab01_N(alanwar).000329-1122
+5.1.2260.0.Lab06_N.000815-1904
 5.1.2263.1.lab01_N(andreva).000825-1856
 5.1.2266.1.lab01_N(andreva).000906-2246
 5.1.2286.1
@@ -91,8 +198,9 @@ Windows XP
 5.1.2498.0.DbgBuild.010618-2302
 5.1.2515.0.main(cburg)
 5.1.2571.xpclient.011254-1551
-5.1.2584.xpclient.012038-1542 
+5.1.2584.xpclient.012038-1542
 5.1.2600.1024.xpsp1.020419-1808
+5.1.2600.1027.xpsp1.020424-1943
 5.1.2600.1247.xpsp2.030708-2216
 5.1.2600.1254.xpsp2.030801-1834
 5.1.2600.1255.xpsp2.030804-1745
@@ -194,7 +302,7 @@ Windows XP
 5.1.2600.2722.xpsp_sp2_gdr.050719-1518
 5.1.2600.2723.xpsp.050720-1554
 5.1.2600.2727.xpsp.050726-1529
-5.1.2600.2729..050729-1537
+5.1.2600.2729.050729-1537
 5.1.2600.2730.xpsp.050801-1554
 5.1.2600.2731.xpsp.050802-1527
 5.1.2600.2732.xpsp.050803-1538
@@ -327,7 +435,7 @@ Windows XP
 5.1.2600.3107.xpsp_sp2_qfe.070326-1320
 5.1.2600.3109.xpsp_sp2_qfe.070329-0037
 5.1.2600.3113.xpsp_sp2_qfe.070405-1255
-5.1.2600.3114.2..070409-0048
+5.1.2600.3114.2.070409-0048
 5.1.2600.3115.xpsp_sp2_qfe.070410-0023
 5.1.2600.3116.xpsp_sp2_qfe.070411-0020
 5.1.2600.3121.xpsp_sp2_qfe.070418-0033
@@ -350,7 +458,7 @@ Windows XP
 5.1.2600.3167.xpsp_sp2_qfe.070629-0031
 5.1.2600.3175.xpsp_sp2_qfe.070711-0021
 5.1.2600.3181.xpsp_sp2_qfe.070719-1309
-5.1.2600.3182.2..070720-0020
+5.1.2600.3182.2.070720-0020
 5.1.2600.3185.xpsp_sp2_qfe.070725-0010
 5.1.2600.3186.xpsp_sp2_qfe.070727-1317
 5.1.2600.3191.xpsp_sp2_gdr.070807-1429
@@ -390,7 +498,7 @@ Windows XP
 5.1.2600.3297.xpsp.080119-1805
 5.1.2600.3314.WinXP.080215-1242
 5.1.2600.3319.xpsp_sp2_gdr.080222-1435
-5.1.2600.3321.2..080227-1309
+5.1.2600.3321.2.080227-1309
 5.1.2600.3325.xpsp_sp2_qfe.080304-1232
 5.1.2600.3327.xpsp_sp2_qfe.080306-1258
 5.1.2600.3335.xpsp_sp2_qfe.080319-1242
@@ -480,8 +588,8 @@ Windows XP
 5.1.2600.3602.xpsp_sp2_qfe.090717-1340
 5.1.2600.3606.WinXP.090727-1737
 5.1.2600.3607.xpsp_sp2_gdr.090728-1516
-5.1.2600.3610..090804-1412
-5.1.2600.3614..090814-1254
+5.1.2600.3610.090804-1412
+5.1.2600.3614.090814-1254
 5.1.2600.3619.xpsp_sp2_gdr.090824-1329
 5.1.2600.3625.xpsp_sp2_gdr.090909-1233
 5.1.2600.3625.xpsp_sp2_qfe.090909-1246
@@ -566,7 +674,7 @@ Windows XP
 5.1.2600.5642.xpsp_sp3_gdr.080716-1319
 5.1.2600.5642.xpsp_sp3_qfe.080716-1344
 5.1.2600.5643.xpsp_sp3_qfe.080718-1259
-5.1.2600.5646..080723-1322
+5.1.2600.5646.080723-1322
 5.1.2600.5648.xpsp_sp3_qfe.080725-1311
 5.1.2600.5649.xpsp_sp3_qfe.080728-1259
 5.1.2600.5650.xpsp_sp3_qfe.080730-1255
@@ -641,7 +749,7 @@ Windows XP
 5.1.2600.5804.xpsp_sp3_qfe.090429-1330
 5.1.2600.5808.xpsp_sp3_qfe.090506-1307
 5.1.2600.5810.xpsp_sp3_qfe.090508-1728
-5.1.2600.5811..090512-1259
+5.1.2600.5811.090512-1259
 5.1.2600.5812.xpsp_sp3_qfe.090513-1346
 5.1.2600.5815.xpsp_sp3_qfe.090518-1520
 5.1.2600.5817.xpsp_sp3_qfe.090521-1412
@@ -746,6 +854,7 @@ Windows XP
 5.1.2600.6199.xpsp_sp3_qfe.120301-1620
 5.1.2600.6211.xpsp_sp3_gdr.120418-2007
 5.1.2600.6221.xpsp_sp3_gdr.120502-1615
+5.1.2600.6532.xpsp_sp3_qfe.140312-0419
 ===========================================================================================================================
 Windows Vista
 ===========================================================================================================================
