@@ -3,7 +3,7 @@ A build list entirely comprised of file versions.
 
 It's only ones that are normal-looking (ex. I was going to have numbers out of ftsrch.dll which look like this: 4.00.4553.winmain_wtr_winhlp32(wmbla).090804-1055, none of those now, although stuff like 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055 will go through because you can tell where they go and they have a proper build number)
 
-375 builds
+381 builds
 
 4.00.56
 4.00.57
@@ -69,9 +69,11 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.0.5477.0.vbl_media_ehome_dev.060718-1930
 6.0.6000.16386.vista_rtm.061101-2205
 50.0.6000.16387.vista_gdr(wmbla).070218-1309
+2006.0.6000.16431.vista_gdr(wmbla).070205-1422
 6.0.6001.18000.longhorn_rtm.080118-1840
 6.0.6002.18111.vistasp2_gdr_win7ip_winman(wmbla).091009-1426
 6.0.6002.18111.vistasp2_gdr_win7ip_winman(wmbla).091009-1451
+6.0.6002.18139.vistasp2_gdr_win7ip_winman(wmbla).090902-1426
 6.1.6721.1.fbl_tools_debugger(wmbla).080908-1333
 6.1.6727.1.fbl_dox_dev_ihvs.080611-0027
 6.1.6727.1.fbl_dox_dev_ihvs.080611-0032
@@ -372,6 +374,10 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 10.0.18875.1001.GitEnlistment.190118-1949
 10.0.18890.1000.WinBuild.160101.0800
 10.0.19041.1.WinBuild.160101.0800
+10.0.22000.1.WinBuild.160101.0800
+10.0.22000.653.WinBuild.160101.0800
+10.0.22000.832.WinBuild.160101.0800
+10.0.22000.978.WinBuild.160101.0800
 10.0.22000.1165.WinBuild.160101.0800
 10.0.22611.1.WinBuild.160101.0800
 10.0.22613.1.WinBuild.160101.0800
