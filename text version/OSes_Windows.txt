@@ -3,14 +3,33 @@ A build list entirely comprised of file versions.
 
 It's only ones that are normal-looking (ex. I was going to have numbers out of ftsrch.dll which look like this: 4.00.4553.winmain_wtr_winhlp32(wmbla).090804-1055, none of those now, although stuff like 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055 will go through because you can tell where they go and they have a proper build number)
 
+367 builds
 
-
+4.00.56
+4.00.57
 4.00.58j
 4.00.58k
 4.00.58o
 4.00.58s
+4.00.73a
+4.00.73b
+4.00.73c
 4.00.491
 4.00.950
+4.00.951
+4.00.952
+4.00.953
+4.00.954
+4.00.955
+4.00.956
+4.00.957
+4.00.958
+4.00.959
+4.00.960
+4.00.969
+4.00.970
+4.00.975
+4.00.980
 4.10.1998
 5.00.1432.1
 5.00.1510.1
@@ -29,16 +48,30 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 5.00.2165.1
 5.00.2186.chuckl
 5.00.2188.1
+5.00.2195.6601
 5.00.2202.1.ntvbl06.000202-1835
 5.1.2410.1.main.001208-1934
 5.1.2600.0.xpclient.010817-1148
+5.1.2600.2180.xpsp_sp2_rtm.040803-2158
+5.1.2600.5512.xpsp.080413-0845
+5.1.2600.5512.xpsp.080413-0852
+5.1.2600.5512.xpsp.080413-2105
+5.1.2600.5512.xpsp.080413-2111
+5.1.2600.5512.xpsp.080413-2113
 5.2.3790.0.srv03_rtm.030324-2048
 5.2.3790.1830.srv03_sp1_rtm.050324-1447
+6.0.5018.0.vbl_core_kernel.041202-2000
+6.0.5027.0.vbl_core.050109-2000
+6.0.5477.0.vbl_media_ehome_dev.060718-1930
 6.0.6000.16386.vista_rtm.061101-2205
 50.0.6000.16387.vista_gdr(wmbla).070218-1309
 6.0.6001.18000.longhorn_rtm.080118-1840
+6.0.6002.18111.vistasp2_gdr_win7ip_winman(wmbla).091009-1426
+6.0.6002.18111.vistasp2_gdr_win7ip_winman(wmbla).091009-1451
+6.1.6721.1.fbl_tools_debugger(wmbla).080908-1333
 6.1.6727.1.fbl_dox_dev_ihvs.080611-0027
 6.1.6727.1.fbl_dox_dev_ihvs.080611-0032
+6.1.6935.0.fbl_fun_global_m1(dimiterg).081025-1824
 6.1.7600.16385.win7_rtm.090713-1255
 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055
 6.1.7600.16444.win7_gdr_oob_ntbw7(wmbla).091020-0237
@@ -187,6 +220,8 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.1.7601.24540.win7sp1_ldr_escrow.191127-1706
 6.1.7601.24545.win7sp1_ldr_escrow.200102-1707
 6.1.7651.0.fbl_srv_dart2(srvbld).091106-1744
+6.1.7734.0.fbl_esc_bcd_cb(zarizvi).100127-1540
+6.1.7758.0.winmain.100604-1503
 6.2.9200.16384.win8_rtm.120725-1247
 6.2.9200.16418.win8_gdr.120917-1921
 6.2.9200.16420.win8_gdr.120919-1813
@@ -249,6 +284,7 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 10.0.14393.2758.rs1_release_1.190104-1904
 10.0.14393.2791.rs1_release.190205-1511
 10.0.14393.2828.rs1_release_inmarket.190216-1457
+10.0.14393.3053.rs1_release_inmarket.190612-1836
 10.0.14393.3085.rs1_release.190703-1816
 10.0.14393.3321.rs1_release.191016-1811
 10.0.15054.1000.rs2_release_ens.170307-1355
