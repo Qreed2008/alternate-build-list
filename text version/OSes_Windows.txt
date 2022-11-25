@@ -3,7 +3,7 @@ A build list entirely comprised of file versions.
 
 It's only ones that are normal-looking (ex. I was going to have numbers out of ftsrch.dll which look like this: 4.00.4553.winmain_wtr_winhlp32(wmbla).090804-1055, none of those now, although stuff like 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055 will go through because you can tell where they go and they have a proper build number)
 
-367 builds
+375 builds
 
 4.00.56
 4.00.57
@@ -52,7 +52,10 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 5.00.2202.1.ntvbl06.000202-1835
 5.1.2410.1.main.001208-1934
 5.1.2600.0.xpclient.010817-1148
+5.1.2600.1106.xpsp1.020828-1920
 5.1.2600.2180.xpsp_sp2_rtm.040803-2158
+5.1.2600.3244.xpsp.071030-0319
+5.1.2600.3264.xpsp.071130-0108
 5.1.2600.5512.xpsp.080413-0845
 5.1.2600.5512.xpsp.080413-0852
 5.1.2600.5512.xpsp.080413-2105
@@ -60,6 +63,7 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 5.1.2600.5512.xpsp.080413-2113
 5.2.3790.0.srv03_rtm.030324-2048
 5.2.3790.1830.srv03_sp1_rtm.050324-1447
+5.2.3790.3959.srv03_sp2_rtm.070216-1710
 6.0.5018.0.vbl_core_kernel.041202-2000
 6.0.5027.0.vbl_core.050109-2000
 6.0.5477.0.vbl_media_ehome_dev.060718-1930
@@ -228,7 +232,9 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.2.9200.20519.win8_ldr.120917-1922
 6.2.9200.20521.win8_ldr.120919-1813
 6.3.9600.16384.winblue_rtm.130821-1623
+6.3.9600.16398.winmain_wtr_blue_winhelp(oobla).131025-1429
 6.3.9600.16411.winblue_gdr.130924-1807
+6.3.9600.16411.winmain_wtr_blue_winhelp(oobla).150511-1212
 6.3.9600.16415.winblue_gdr.130928-1658
 6.3.9600.17057.winblue_gdr_s14sku.140320-1800
 6.3.9600.17109.winblue_gdr.140426-0111
@@ -247,6 +253,8 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.3.9600.18478.winblue_ltsb.160920-0600
 6.3.9600.18515.winblue_ltsb.161012-0600
 6.3.9600.18639.winblue_ltsb.170325-0600
+6.3.9600.18722.winblue_ltsb.170601-2244
+6.3.9600.19920.winblue_ltsb_escrow.210107-1318
 6.3.9600.20300.winblue_ltsb_escrow.220215-0706
 10.0.10240.16384.th1.150709-1700
 10.0.10240.16401.th1.150723-1657
