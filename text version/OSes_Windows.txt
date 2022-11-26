@@ -4,8 +4,9 @@ A build list entirely comprised of file versions.
 It's only ones that are normal-looking (ex. I was going to have numbers out of ftsrch.dll which look like this: 4.00.4553.winmain_wtr_winhlp32(wmbla).090804-1055, none of those now, although stuff like 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055 will go through because you can tell where they go and they have a proper build number)
 
 WinBuild.160101.0800 builds stay until I find the real build strings (albeit with thhe WinBuild protion removed, i.e. just the build number). GtEnlistment builds will stay.
+Builds that just have a difference in main number (6.2, 6.3, 10.0, etc) are also removed.
 
-515 builds
+513 builds
 
 1.00.113
 1.00.114
@@ -121,7 +122,6 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.1.7601.18518.win7sp1_gdr.140625-1507
 6.1.7601.18526.win7sp1_gdr.140706-1506
 6.1.7601.18741.win7sp1_gdr.150202-1526
-6.2.7601.18741.win7sp1_gdr.150202-1526
 6.1.7601.18798.win7sp1_gdr.150316-1654
 6.1.7601.18839.win7sp1_gdr.150427-0707
 6.1.7601.18847.win7sp1_gdr.150508-1512
@@ -160,7 +160,6 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.1.7601.22729.win7sp1_ldr.140625-1507
 6.1.7601.22736.win7sp1_ldr.140706-1507
 6.1.7601.22948.win7sp1_ldr.150202-1521
-6.2.7601.22948.win7sp1_ldr.150202-1521
 6.1.7601.23002.win7sp1_ldr.150316-1651
 6.1.7601.23040.win7sp1_ldr.150427-0703
 6.1.7601.23049.win7sp1_ldr.150508-1744
@@ -183,7 +182,6 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.1.7601.23446.win7sp1_ldr.160504-0600
 6.1.7601.23455.win7sp1_ldr.160516-0600
 6.1.7601.23471.win7sp1_ldr.160614-0600
-6.2.7601.23471.win7sp1_ldr.160614-0600
 6.1.7601.23539.win7sp1_ldr.160902-0600
 6.1.7601.23543.win7sp1_ldr.160909-0600
 6.1.7601.23569.win7sp1_ldr.161007-0600
@@ -219,7 +217,6 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.1.7601.24408.win7sp1_ldr_escrow.190320-1700
 6.1.7601.24417.win7sp1_ldr_escrow.190410-1756
 6.1.7601.24435.win7sp1_ldr.190407-0600
-6.2.7601.24435.win7sp1_ldr.190407-0600
 6.1.7601.24441.win7sp1_ldr.190418-1735
 6.1.7601.24444.win7sp1_ldr_escrow.190429-1700
 6.1.7601.24475.win7sp1_ldr.190516-0600
@@ -256,6 +253,7 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.3.9600.17211.winblue_gdr.140613-1709
 6.3.9600.17415.winblue_r4.141028-1500
 6.3.9600.17475.winblue_r5.141028-1500
+6.3.9600.17667.winblue_r8.150123-1500
 6.3.9600.18067.winblue_ltsb.150929-0600
 6.3.9600.18233.winblue_ltsb.160210-0600
 6.3.9600.18460.winblue_ltsb.160827-0600
@@ -264,6 +262,7 @@ WinBuild.160101.0800 builds stay until I find the real build strings (albeit wit
 6.3.9600.18639.winblue_ltsb.170325-0600
 6.3.9600.18722.winblue_ltsb.170601-2244
 6.3.9600.19920.winblue_ltsb_escrow.210107-1318
+6.3.9600.19990.winblue_ltsb_escrow.210317-1749
 6.3.9600.20012.winblue_ltsb.210405-1700
 6.3.9600.20140.winblue_ltsb_escrow.210920-1741
 6.3.9600.20300.winblue_ltsb_escrow.220215-0706
