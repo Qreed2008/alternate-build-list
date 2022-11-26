@@ -3,8 +3,12 @@ A build list entirely comprised of file versions.
 
 It's only ones that are normal-looking (ex. I was going to have numbers out of ftsrch.dll which look like this: 4.00.4553.winmain_wtr_winhlp32(wmbla).090804-1055, none of those now, although stuff like 50.1.7600.16386.winmain_wtr_winhlp32(wmbla).090804-1055 will go through because you can tell where they go and they have a proper build number)
 
-381 builds
+403 builds
 
+1.00.113
+1.00.114
+1.00.127
+1.00.131
 4.00.56
 4.00.57
 4.00.58j
@@ -240,6 +244,7 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.3.9600.16415.winblue_gdr.130928-1658
 6.3.9600.17057.winblue_gdr_s14sku.140320-1800
 6.3.9600.17109.winblue_gdr.140426-0111
+6.3.9600.17195.winblue_gdr.140530-1506
 6.3.9600.17204.winblue_gdr_s14sku.140626-2126
 6.3.9600.17204.winblue_gdr_s14sku.140804-1823
 6.3.9600.17204.winblue_gdr_s14sku.141007-1823
@@ -257,6 +262,8 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 6.3.9600.18639.winblue_ltsb.170325-0600
 6.3.9600.18722.winblue_ltsb.170601-2244
 6.3.9600.19920.winblue_ltsb_escrow.210107-1318
+6.3.9600.20012.winblue_ltsb.210405-1700
+6.3.9600.20140.winblue_ltsb_escrow.210920-1741
 6.3.9600.20300.winblue_ltsb_escrow.220215-0706
 10.0.10240.16384.th1.150709-1700
 10.0.10240.16401.th1.150723-1657
@@ -347,21 +354,28 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 10.0.17134.885.WinBuild.160101.0800
 10.0.17134.950.WinBuild.160101.0800
 10.0.17134.1006.WinBuild.160101.0800
+10.0.17763.1.rs5_release.180914-1434
 10.0.17763.1.WinBuild.160101.0800
+10.0.17763.107.rs5_release_svc_prod2.181026-1406
 10.0.17763.167.WinBuild.160101.0800
 10.0.17763.168.WinBuild.160101.0800
 10.0.17763.194.WinBuild.160101.0800
 10.0.17763.292.WinBuild.160101.0800
+10.0.17763.345.rs5_release_svc_prod2.190213-1831
 10.0.17763.348.WinBuild.160101.0800
 10.0.17763.404.WinBuild.160101.0800
 10.0.17763.529.WinBuild.160101.0800
 10.0.17763.592.WinBuild.160101.0800
 10.0.17763.615.WinBuild.160101.0800
+10.0.17763.673.rs5_release_svc_prod1.190718-1807
 10.0.17763.678.WinBuild.160101.0800
 10.0.17763.737.WinBuild.160101.0800
 10.0.17763.864.WinBuild.160101.0800
 10.0.17763.1007.WinBuild.160101.0800
+10.0.17763.1091.rs5_release_svc_prod1.200212-1644
+10.0.18362.1.19h1_release.190318-1202
 10.0.18362.1.WinBuild.160101.0800
+10.0.18362.30.19h1_release_svc_prod2.190329-2159
 10.0.18362.145.WinBuild.160101.0800
 10.0.18362.239.WinBuild.160101.0800
 10.0.18362.267.WinBuild.160101.0800
@@ -370,13 +384,21 @@ It's only ones that are normal-looking (ex. I was going to have numbers out of f
 10.0.18362.387.WinBuild.160101.0800
 10.0.18362.628.WinBuild.160101.0800
 10.0.18362.693.WinBuild.160101.0800
+10.0.18362.712.19h1_release_svc_prod1.200217-0643
+10.0.18362.770.19h1_release_svc_prod1.200309-1836
 10.0.18362.815.WinBuild.160101.0800
 10.0.18875.1001.GitEnlistment.190118-1949
 10.0.18890.1000.WinBuild.160101.0800
+10.0.19041.1.vb_release.191206-1406
 10.0.19041.1.WinBuild.160101.0800
+10.0.19041.208.vb_release_svc_im.200416-2050
+10.0.19041.264.vb_release_svc_prod1.200508-220510.0.19645.1016.WinBuild.160101.0800
 10.0.22000.1.WinBuild.160101.0800
+10.0.22000.71.WinBuild.160101.0800
+7.8.22000.593.WinBuild.160101.0800
 10.0.22000.653.WinBuild.160101.0800
 10.0.22000.832.WinBuild.160101.0800
+6.6.22000.918.WinBuild.160101.0800
 10.0.22000.978.WinBuild.160101.0800
 10.0.22000.1165.WinBuild.160101.0800
 10.0.22611.1.WinBuild.160101.0800
