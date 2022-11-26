@@ -68,9 +68,6 @@ Builds that just have a difference in main number (6.2, 6.3, 10.0, etc) are also
 5.00.2202.1.ntvbl06.000202-1835
 5.1.2410.1.main.001208-1934
 5.1.2600.0.xpclient.010817-1148
-5.1.2600.12.xpclnt_qfe.010827-1803
-5.1.2600.14.xpclnt_qfe.010827-1803
-5.1.2600.15.xpclnt_qfe.010827-1803
 5.1.2600.1002.WinDDK
 5.1.2600.1106.xpsp1.020828-1920
 5.1.2600.1130.WinDDK
@@ -121,6 +118,7 @@ Builds that just have a difference in main number (6.2, 6.3, 10.0, etc) are also
 6.1.7600.21386.win7_ldr.121129-1435
 6.1.7600.21416.win7_ldr.130103-1434
 6.2.7601.17514.win7sp1_rtm.101119-1850
+6.1.7601.17514.win7sp1_rtm_embedded_pos.110427-1759
 6.1.7601.17617.win7sp1_gdr.110513-1659
 6.1.7601.17625.win7sp1_gdr.110602-1632
 6.1.7601.17630.win7sp1_gdr.110610-1502
@@ -271,6 +269,7 @@ Builds that just have a difference in main number (6.2, 6.3, 10.0, etc) are also
 6.3.9600.17211.winblue_gdr.140613-1709
 6.3.9600.17415.winblue_r4.141028-1500
 6.3.9600.17475.winblue_r5.141028-1500
+7.9.9600.17642.winblue_r7_threshold.150121-1500
 6.3.9600.17667.winblue_r8.150123-1500
 6.3.9600.18067.winblue_ltsb.150929-0600
 6.3.9600.18233.winblue_ltsb.160210-0600
@@ -299,6 +298,7 @@ Builds that just have a difference in main number (6.2, 6.3, 10.0, etc) are also
 10.0.10586.916.th2_release_sec.170427-1350
 10.0.10586.1478.th2_release_sec.180228-1828
 10.0.14393.0.rs1_release.160715-1616
+10.0.14393.0.rs1_release_srvmedia.160808-1702
 10.0.14393.103.rs1_release_inmarket.160819-1924
 10.0.14393.187.rs1_release_inmarket.160906-1818
 10.0.14393.206.rs1_release.160915-0644
