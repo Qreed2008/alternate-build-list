@@ -1,0 +1,44 @@
+img {
+  width: 12;
+  height: 12
+}
+
+a {
+  line-height: 30px;
+}
+
+.available {
+  color: #00ff00
+}
+
+.confirmed {
+  color: #007fff
+}
+
+.fake {
+  color: #ff0000
+}
+
+.file {
+  color: #ff00ff
+}
+
+.modified {
+  color: #cf00ff
+}
+
+.partial {
+  color: #ff7f00
+}
+
+.remake {
+  color: #ffff00
+}
+
+.unconfirmed {
+  color: #00ffff
+}
+
+.unsure {
+  color: #7f7f7f
+}
