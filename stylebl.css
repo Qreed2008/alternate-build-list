@@ -11,42 +11,86 @@ a {
   color: #00ff00
 }
 
+.available::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/c/c7/Available.svg')
+}
+
 .confirmed {
   color: #007fff
+}
+
+.confirmed::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/c/ce/Confirmed.svg')
 }
 
 .fake {
   color: #ff0000
 }
 
+.fake::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/d/d6/Fake.svg')
+}
+
 .file {
   color: #ff00ff
+}
+
+.file::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/d/da/File.svg')
 }
 
 .modified {
   color: #cf00ff
 }
 
+.modified::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/e/ef/Modified.svg')
+}
+
 .partial {
   color: #ff7f00
+}
+
+.partial::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/2/27/Partial.svg')
 }
 
 .remake {
   color: #ffff00
 }
 
+.remake::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/9/93/Remake.svg')
+}
+
 .unconfirmed {
   color: #00ffff
+}
+
+.unconfirmed::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/3/34/Unconfirmed.svg')
 }
 
 .unsure {
   color: #7f7f7f
 }
 
+.unsure::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/e/eb/Unsure.svg')
+}
+
 .buildlist {
   color: #ffffff
 }
 
+.buildlist::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/9/9c/Build_list.svg')
+}
+
 .fsc {
   color: #007f7f
+}
+
+.fsc::before {
+  content:url('https://static.wikia.nocookie.net/ultradefinitive-build-list/images/7/7b/Fake_Screenshot_Contest.svg')
 }
