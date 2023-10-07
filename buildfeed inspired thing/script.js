@@ -33,4 +33,5 @@ varreq.addEventListener('input', function () {
   document.getElementById("Language").innerHTML = list[build]["Types"][variant]["Language"];
   document.getElementById("SKU").innerHTML = list[build]["Types"][variant]["SKU"];
   document.getElementById("OEM").innerHTML = list[build]["Types"][variant]["OEM"];
+  document.getElementById("Other").innerHTML = list[build]["Types"][variant]["Other"];
 });
