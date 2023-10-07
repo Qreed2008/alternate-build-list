@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <p id="buildcount"></p>
+  <label for="buildreq">Build: </label>
+  <input type="number" min="1" id="buildreq">
+  <h1 id="title"></h1>
+  <p id="Description"></p>
+  <table border="1">
+    <tr>
+      <th>Build status</th>
+      <td id="BuildStatus"></td>
+    </tr>
+    <tr>
+      <th>System</th>
+      <td id="OS"></td>
+    </tr>
+    <tr>
+      <th>Full build tag</th>
+      <td id="Fulltag"></td>
+    </tr>
+    <tr>
+      <th>Build stage</th>
+      <td id="Stage"></td>
+    </tr>
+    <tr>
+      <th>Compile date</th>
+      <td id="CompTime"></td>
+    </tr>
+    <tr>
+      <th>Release date</th>
+      <td id="RelTime"></td>
+    </tr>
+  </table>
+  <p id="varcount"></p>
+  <label for="varreq">Variant: </label>
+  <input type="number" min="1" id="varreq">
+  <p></p>
+  <table border="1">
+    <tr>
+      <th>Variant status</th>
+      <td id="VarStatus"></td>
+    </tr>
+    <tr>
+      <th>Architecture</th>
+      <td id="Arch"></td>
+    </tr>
+    <tr>
+      <th>Language (<a href="http://www.lingoes.net/en/translator/langcode.htm">in ISO format</a>)</th>
+      <td id="Language"></td>
+    </tr>
+    <tr>
+      <th>SKU</th>
+      <td id="SKU"></td>
+    </tr>
+    <tr>
+      <th>Debug?</th>
+      <td id="Debug"></td>
+    </tr>
+    <tr>
+      <th>OEM</th>
+      <td id="OEM"></td>
+    </tr>
+  </table>
+  <script type="module" src="script.js"></script>
+</body>
+
+</html>

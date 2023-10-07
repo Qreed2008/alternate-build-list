@@ -1,0 +1,66 @@
+[
+  {
+    "OS":"Windows 1.0x",
+    "Fulltag":"Demonstration 0.01",
+    "CompTime":"1983-09-12",
+    "RelTime":"",
+    "Stage":"Beta",
+    "Description":"Also known as the BYTE build, as it was seen in a 1983-12 volume of the BYTE magazine.",
+    "BuildStatus":"Confirmed",
+    "Types":[
+      {"Arch":"x86 16-bit", "Debug":"", "Language":"en-us(?)", "SKU":"", "VarStatus":"Confirmed", "OEM":""}
+    ]
+  },
+  {
+    "OS":"Windows 1.0x",
+    "Fulltag":"1.01",
+    "CompTime":"1985-11-15",
+    "RelTime":"1985-11-20",
+    "Stage":"Retail (1.01)",
+    "Description":"No description.",
+    "BuildStatus":"Available",
+    "Types":[
+      {"Arch":"x86 16-bit", "Debug":"No", "Language":"en-us(?)", "SKU":"", "VarStatus":"Available", "OEM":""}
+    ]
+  },
+  {
+    "OS":"Windows 10 (Original / v1507)",
+    "Fulltag":"6.3.9650.0.fbl_sid_auth.131021-1730",
+    "CompTime":"2013-10-21, 17:30",
+    "RelTime":"",
+    "Stage":"Pre-Technical Preview",
+    "Description":"This build was mentioned in the <a href=https://web.archive.org/web/20210724092016/https://www.comss.ru/download/docs/Release_Notes_SEP12.1.4.pdf>release notes for Symantec Endpoint Protection 12.1.4</a>, on page 10.",
+    "BuildStatus":"Confirmed",
+    "Types":[
+      {"Arch":"x86 (assumed)", "Debug":"No (assumed)", "Language":"en-us (assumed)", "SKU":"", "VarStatus":"Confirmed", "OEM":""}
+    ]
+  },
+  {
+    "OS":"Windows 10 (Original / v1507)",
+    "Fulltag":"6.3.9778.0.fbl_marketplace.140619-1430",
+    "CompTime":"2014-06-19, 14:30",
+    "RelTime":"",
+    "Stage":"Pre-Technical Preview",
+    "Description":"",
+    "BuildStatus":"Confirmed",
+    "Types":[
+      {"Arch":"x86", "Debug":"No", "Language":"en-us", "SKU":"Enterprise Volume", "VarStatus":"Confirmed", "OEM":""}
+    ]
+  },
+  {
+    "OS":"Windows 10 (Original / v1507)",
+    "Fulltag":"6.3.9785.0.fbl_partner_eeap.140629-0030",
+    "CompTime":"2014-06-29, 00:30",
+    "RelTime":"",
+    "Stage":"Pre-Technical Preview",
+    "Description":"",
+    "BuildStatus":"Available",
+    "Types":[
+      {"Arch":"x64", "Debug":"No", "Language":"en-us", "SKU":"Professional (Core)", "VarStatus":"Available", "OEM":""},
+      {"Arch":"x64", "Debug":"Yes", "Language":"en-us", "SKU":"Professional (Core)", "VarStatus":"Available", "OEM":""},
+      {"Arch":"x86", "Debug":"No", "Language":"en-us", "SKU":"Professional (Core)", "VarStatus":"Available", "OEM":""},
+      {"Arch":"x86", "Debug":"Yes", "Language":"en-us", "SKU":"Professional (Core)", "VarStatus":"Available", "OEM":""}
+    ]
+  },
+  {}
+]
